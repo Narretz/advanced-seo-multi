@@ -1,0 +1,9 @@
+name: Test
+super: true
+id: af2ed191-319a-459c-bf84-68c812af7bbd
+password_hash: $2y$10$bWo.QAlWAz8HOnuxwM9gD.tyew463lO.O4rFI0GwnIF2bvIQi6oQi
+preferences:
+  favorites:
+    -
+      name: 'General ‹ Site'
+      url: advanced-seo/site/general
